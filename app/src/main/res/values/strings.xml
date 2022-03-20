@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimriTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_title">여러분의 심리를\n\t\t검사해보세요</string>
+    <string name="question">화분에 당신이 가장 좋아하는 꽃이 있습니다.\n시간이 지나 이 꽃이 모두 시들었습니다.\n당신이라면 어떻게 할 것입니까?</string>
+</resources>
